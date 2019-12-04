@@ -28,6 +28,10 @@ class Viking extends Soldier {
         return message
     }
 
+    battleCry() {
+        return `Odin Owns You All!`
+    }
+
 }
 
 // Saxon
